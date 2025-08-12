@@ -12,9 +12,7 @@ Türkiye’de yüksek teknoloji üretim endeksi, tüm zamanların en yüksek sev
 
 ### 3. Ödemeler Dengesi Raporu
 **Kaynak:** [TCMB PDF](https://tcmb.gov.tr/wps/wcm/connect/609ef884-3b3c-4bc3-84fe-9254244c3490/odemelerdengesi.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-609ef884-3b3c-4bc3-84fe-9254244c3490-pyt530n)  
-Haziran 2025’te cari işlemler dengesi 1,2 milyar dolar fazla verdi. Hizmet gelirleri ve turizmde güçlü performans, cari fazlanın temel belirleyicisi oldu.
 
----
 
 ## 🌍 Dünya Ekonomisi
 
